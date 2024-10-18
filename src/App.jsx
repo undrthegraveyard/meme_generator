@@ -13,3 +13,10 @@ function App() {
 }
 
 export default App
+if (import.meta.hot) {
+  import.meta.hot.accept()
+}
+
+console.log(`App.jsx ran ${new Date().toLocaleTimeString()}`)
+
+// FUCK YOU VITE!
