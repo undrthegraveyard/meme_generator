@@ -4,7 +4,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![Twitter: shivam_agarwaal](https://img.shields.io/twitter/follow/shivam_agarwaal.svg?style=social)](https://x.com/shivam_agarwaal)
 
-> Meme Generator is a fun and interactive web application that allows users to create custom memes using various templates. Built with React and Vite, this app provides a smooth and responsive interface for meme enthusiasts.
+Meme Generator is a fun and interactive web application that allows users to create custom memes using various templates. Built with React and Vite, this app provides a smooth and responsive interface for meme enthusiasts.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@
 
 Want to see the Meme Generator in action? Check out our live demo!
 
-[Click here to view the demo]() <!-- Add your demo link here -->
+[Click here to view the demo](https://meme-generator-weld-pi.vercel.app/) <!-- Add your demo link here -->
 
 ## Features
 
@@ -75,6 +75,8 @@ Want to see the Meme Generator in action? Check out our live demo!
 
 * Twitter: [@shivam_agarwaal](https://x.com/shivam_agarwaal)
 * Github: [@undrthegraveyard](https://github.com/undrthegraveyard)
+* Email: [shivamagarwalmarch@gmail.com](mailto:shivamagarwalmarch@gmail.com)
+
 
 ## License
 
